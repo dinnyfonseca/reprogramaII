@@ -1,0 +1,93 @@
+
+/*table{
+    background-color: yellow;
+}
+
+body{
+    font-family: 'Lobster', cursive;
+}
+h1{
+    margin: 0px;
+    padding: 0px;
+}
+#titulo{
+    color: #ffa64d;
+    font-weight: bold;
+
+}
+
+header{
+    background-image: url("../img/perola.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+     
+
+}
+img.center{
+    display: block;
+    margin: 0 auto;
+}
+nav ul li{
+display: inline;
+}
+div{
+    background-color: #ffaa80;
+}
+
+.box-nome{
+    background-color: #ffaa80;
+}
+.box-um{
+    background-color: #ffaa80;
+}
+.box{
+    border: #cc4400 1px dashed;
+}
+.box-descricao{
+    background-color: #ffaa80;
+}
+h2{
+    text-decoration: underline;
+}
+.pezinho{
+    text-align: center;
+    background-color: #662200;
+    color: #ffccb3;
+    padding: 2px;
+}
+.heart{
+    color: #ff0000;
+    font-weight: bold;
+}
+footer a{
+    color: #ffccb3;
+    text-decoration: nome;
+}
+footer a:hover{
+    color:#ff0066;
+    outline: dotted;
+}
+label.box{
+    border-color: #cc5200 1px dashed;
+    background-color: #ffd1b3;
+}*/
+a{
+    background-color: pink;
+    width: 200px;
+    padding: 20px;
+    display:block;
+}
+p{
+    background-color: yellow;
+    height: 200px;
+    display: inline;
+}
+label{
+    width: 200px;
+    display: inline;
+}
+input{
+    width: 50px;
+    display: inline;
+}
